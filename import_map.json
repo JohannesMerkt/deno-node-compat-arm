@@ -1,0 +1,7 @@
+{
+  "scopes": {
+    "https://raw.githubusercontent.com/Zhomart/dex/930253915093e1e08d48ec0409b4aee800d8bd0c/lib-dyn/deps.ts": {
+      "https://deno.land/std/node/": "https://deno.land/std@0.177.0/node/"
+    }
+  }
+}
